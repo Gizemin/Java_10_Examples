@@ -18,7 +18,6 @@ public class Questions3 {
 	kdvsizFiyat=fiyat/1.18f;
 	hamFiyat= kdvsizFiyat/1.15f;
 	
-	
 	System.out.println("urun kdvsiz fiyatı:" + kdvsizFiyat);
 	System.out.println("urun ham fiyatı:" + hamFiyat);
 	
